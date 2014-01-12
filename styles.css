@@ -54,7 +54,13 @@ body {
 #footer {
 	clear: both;
 	padding-bottom: 30px;
+	text-align: center;
 }
+
+#footer p {
+	padding-top: 30px;
+	color: #567459;
+} 
 
 #social {
 	margin: 0px auto 0;
