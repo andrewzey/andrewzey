@@ -1,0 +1,96 @@
+body {
+	width: 100%;
+	height: 100%; 
+	background-color: #7aa67f;
+	font-family: "PT Sans", sans-serif;
+	
+}
+
+#content {
+	position: relative;
+	width: 100%;
+	margin: 0 auto 0;
+}
+
+	h1 {
+		position: relative;
+		text-align: center;
+		font-size: 4.2em;
+		font-weight: 400;
+		color: white;
+		padding-top: 40px;
+		padding-bottom: 30px;
+	}
+
+	h1 a {
+		color: white;
+		text-decoration: none;
+	}
+
+	h1 span {
+		font-size: .5em;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto 0;
+		height: 375px;
+	}
+
+#separator {
+	width: 100%;
+	height: 100px;
+	background-color: #567459;
+}
+
+#separator p {
+	text-align: center;
+	color: white;
+	font-size: 1.875em;
+	font-weight: 400;
+	line-height: 100px;
+}
+
+#footer {
+	clear: both;
+	padding-bottom: 30px;
+}
+
+#social {
+	margin: 0px auto 0;
+	padding-top: 30px;
+	text-align: center;
+}
+
+#social li {
+	display: inline-block;
+	height: 68px; width: 68px;
+	margin-right: 20px;
+	font-size: 2.4em;
+	line-height: 70px;
+}
+
+#social li:last-child {
+	margin-right: 0;
+}
+
+#social a {
+	color: #445f47;
+	display: block;
+	width: 100%; height: 100%;
+	background-color: #a2bda5;
+	border-radius: 10px;
+}
+
+#social a:hover {
+	background-color: #b4cdb6;
+}
+
+#Tumblr:hover {color: #175179;}
+#LinkedIn:hover {color: #1783bc;}
+#Twitter:hover {color: #00abed;}
+#Facebook:hover {color: #4b6aab;}
+#Youtube:hover {color: #960023;}
+#GitHub:hover {color: #4183c4;}
+
+
